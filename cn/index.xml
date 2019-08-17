@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>森罗万象</title>
-    <link>https://example.com/cn/</link>
+    <link>https://zuxin.github.io/cn/</link>
     <description>Recent content on 森罗万象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 17 Aug 2019 17:12:59 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zuxin.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>规则与意义</title>
-      <link>https://example.com/cn/posts/rule_and_meaning/</link>
+      <link>https://zuxin.github.io/cn/posts/rule_and_meaning/</link>
       <pubDate>Sat, 17 Aug 2019 17:12:59 +0800</pubDate>
       
-      <guid>https://example.com/cn/posts/rule_and_meaning/</guid>
+      <guid>https://zuxin.github.io/cn/posts/rule_and_meaning/</guid>
       <description>最近通关了Jonathan Blow的The Witness以后找了很多他在不同地方的演讲和相关资料，以及感觉自己对很多事情的认知提升到了新的层次，但是我所体验的东西又比较玄妙，很难说属于哪个领域的东西，所以就写了这篇“假大空”的文章从多方面论证来阐述我想说的东西。
 游戏与数学 先让我放一段演讲
  IndieCade 2011: Jonathan Blow &amp;amp; Marc Ten Bosch

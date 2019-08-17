@@ -3,55 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/cn/posts/</loc>
-    <lastmod>2019-08-17T17:12:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/cn/</loc>
+    <loc>https://zuxin.github.io/</loc>
     <lastmod>2019-08-17T17:12:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://zuxin.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/"
+                href="https://zuxin.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/cn/posts/rule_and_meaning/</loc>
+    <loc>https://zuxin.github.io/rule_and_meaning/</loc>
     <lastmod>2019-08-17T17:12:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/cn/categories/</loc>
+    <loc>https://zuxin.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://zuxin.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/categories/"
+                href="https://zuxin.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/cn/tags/</loc>
+    <loc>https://zuxin.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://zuxin.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/"
+                href="https://zuxin.github.io/tags/"
                 />
   </url>
   

@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://zuxin.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/categories/"
+                href="https://zuxin.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://zuxin.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://zuxin.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/"
+                href="https://zuxin.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://zuxin.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://zuxin.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/"
+                href="https://zuxin.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://zuxin.github.io/en/"
                 />
   </url>
   
